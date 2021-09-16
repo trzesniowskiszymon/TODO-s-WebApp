@@ -28,7 +28,7 @@ Project is created with:
 
 ### Setup
 If u want to run this project you need to copy it to IntelliJ IDEA and run. Next step is migrate database with flyway by open terminal in IntelliJ and write `mvn flyway:migrate`
-and then open you H2 Database to check that everything works. You need to run app and write in your browser in URL localhost:8080/h2-console and in JDBC URL field you need to
+and then run and open you H2 Database to check that everything works.You can also run it by `mvn jetty:run` in terminal. You need to run app and write in your browser in URL localhost:8080/h2-console and in JDBC URL field you need to
 paste your database URL. If H2 Database works good you can go to localhost:8080 and test your app by introducing yourself, select language and add your TODO's.
 
 ### Status
