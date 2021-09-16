@@ -6,6 +6,7 @@ Easy webapp using Spring Boot which help you with your daily TODO's.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
+* [Sources](#sources)
 
 ### Introduction
 Hello! 
@@ -32,3 +33,6 @@ paste your database URL. If H2 Database works good you can go to localhost:8080 
 
 ### Status
 Application is completed.
+
+### Sources
+This app is based on Udemy course by Mateusz Chrzonstowski : https://www.udemy.com/course/java-ambitny-start/
